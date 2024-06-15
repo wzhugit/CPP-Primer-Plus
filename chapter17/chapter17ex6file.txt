@@ -1,0 +1,7 @@
+The Employee is Jack Z
+The Employee's Job is Senior Engineer
+The number of the staffs that manager is in charge of is 20000
+
+The Employee is Yan Sun
+The Employee's Job is marketing management
+
